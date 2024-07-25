@@ -10,6 +10,7 @@ public class Variable1 {
 		System.out.println(data+meta);
 		boolean sata= data>=meta;
 		System.out.println(sata);
+		String alpha = "Sharad"
 
 	}
 
